@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Deepinder Singh</h1>
-<h1 align="center">Hi , I'm Deepinder Singh</h1>
 <h3 align="center">A passionate hobbyist developer from India</h3>
 
 - 🌱 I’m currently learning **Python and C++**
