@@ -51,7 +51,7 @@ Modern responsive personal portfolio
 - 📱 Fully responsive design  
 - 📬 Contact form integration  
 
-🔗 Live: https://deepinders0627.netlify.app/  
+🔗 Live: https://deepinderportfolio.netlify.app/
 
 ---
 
