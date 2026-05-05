@@ -57,7 +57,7 @@ Modern responsive personal portfolio
 
 ## 📊 GitHub Stats
 
-![Deepinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepindersinghbti&show_icons=true&theme=tokyonight)
+![Deepinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepindersinghbti&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
