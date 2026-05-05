@@ -57,8 +57,8 @@ Modern responsive personal portfolio
 
 ## 🌐 Connect With Me
 
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
-- 🌐 Portfolio: https://deepinders0627.netlify.app/  
+- 🔗 LinkedIn: https://linkedin.com/in/deepinders0627
+- 🌐 Portfolio: https://deepinderportfolio.netlify.app/  
 - 💻 GitHub: https://github.com/deepindersinghbti  
 
 ---
