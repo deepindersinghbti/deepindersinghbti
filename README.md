@@ -1,29 +1,78 @@
-<h1 align="center">Hi 👋, I'm Deepinder Singh</h1>
-<h3 align="center">A passionate hobbyist developer from India</h3>
+# Hi, I'm Deepinder Singh 👋
 
-- 🌱 I’m currently learning **Python and C++**
--  I’m currently learning **Python and C++**
+💻 B.Tech CSE Student @ Amity University, Mohali  
+🚀 Passionate about building real-world tech solutions  
+🌱 Currently exploring AI, AWS, and Robotics  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/deepindersinghb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepindersinghb1" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-</p>
+## 🚀 Currently Working On
+- 🔍 **FairLens** – AI-powered bias detection platform  
+- ☁️ AWS (Cloud Foundations + Cloud Quest)  
+- 🤖 ROS 2 (Jazzy) & Robotics development  
+- 🧠 Strengthening DSA & core CS fundamentals  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+C • C++ • Python • JavaScript  
+
+**Frameworks & Tools:**  
+Next.js • FastAPI • MongoDB • Git • GitHub  
+
+**Cloud & Platforms:**  
+AWS (Beginner Level)  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 FairLens
+AI-powered system to detect bias in datasets and ML models  
+
+**Tech Stack:** FastAPI, Next.js  
+**Features:**
+- 📂 CSV dataset upload  
+- 📊 Bias visualization graphs  
+- 🤖 AI-generated fairness insights  
+
+🔗 GitHub: https://github.com/deepindersinghbti/FairLens  
+
+---
+
+### 🔹 Portfolio Website
+Modern responsive personal portfolio  
+
+**Tech Stack:** HTML, CSS, JavaScript  
+**Features:**
+- 🌙 Dark/Light mode toggle  
+- 📱 Fully responsive design  
+- 📬 Contact form integration  
+
+🔗 Live: https://deepinders0627.netlify.app/  
+
+---
+
+## 📊 GitHub Stats
+
+![Deepinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepindersinghbti&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
+- 🌐 Portfolio: https://deepinders0627.netlify.app/  
+- 💻 GitHub: https://github.com/deepindersinghbti  
+
+---
+
+## ⚡ Fun Fact
+I prefer building real-world projects over just following tutorials.
+
+---
+
+## 💡 Personal Note
+“I build systems that are not just functional, but meaningful.”
