@@ -61,7 +61,7 @@ AI-powered fairness analysis tool for detecting bias in datasets and model predi
 - 📄 Downloadable PDF reports  
 
 🔗 GitHub: https://github.com/deepindersinghbti/FairLens  
-🌐 Live: https://fairlens-ai.vercel.app/
+🌐 Live: https://deepinder-fairlens.vercel.app/
 
 ---
 
