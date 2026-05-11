@@ -7,10 +7,12 @@
 ---
 
 ## 🚀 Currently Working On
+
+- 🛡️ **VibeGuard AI** – AI-assisted repository scanner for code quality and security insights  
 - 🔍 **FairLens** – AI-powered bias detection platform  
-- ☁️ AWS (Cloud Foundations + Cloud Quest)  
-- 🤖 ROS 2 (Jazzy) & Robotics development  
-- 🧠 Strengthening DSA & core CS fundamentals  
+- ☁️ **AWS** – Cloud Foundations, Cloud Quest, and practical cloud labs  
+- 🤖 **ROS 2 Jazzy** – Robotics development and Linux-based experimentation  
+- 🧠 **DSA & Core CS** – Strengthening problem-solving and computer science fundamentals  
 
 ---
 
@@ -23,35 +25,60 @@ C • C++ • Python • JavaScript
 Next.js • FastAPI • MongoDB • Git • GitHub  
 
 **Cloud & Platforms:**  
-AWS (Beginner Level)  
+AWS • Render • Vercel • Cloudflare Pages  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 FairLens
-AI-powered system to detect bias in datasets and ML models  
+### 🛡️ VibeGuard AI
 
-**Tech Stack:** FastAPI, Next.js  
+AI-assisted codebase scanner for detecting security risks, bad practices, and project quality issues in repositories.
+
+**Tech Stack:** Next.js, FastAPI, Python  
+
 **Features:**
-- 📂 CSV dataset upload  
-- 📊 Bias visualization graphs  
-- 🤖 AI-generated fairness insights  
+- 📦 Repository/ZIP-based project scanning  
+- 🛡️ Security and code quality issue detection  
+- 📊 Developer-friendly scan reports  
+- 🤖 AI-assisted insights for easier understanding  
 
-🔗 GitHub: https://github.com/deepindersinghbti/FairLens  
+🔗 GitHub: https://github.com/deepindersinghbti/VibeGuard-AI  
+🌐 Live: https://vibeguard-ai.vercel.app/
 
 ---
 
-### 🔹 Portfolio Website
-Modern responsive personal portfolio  
+### 🔍 FairLens
+
+AI-powered fairness analysis tool for detecting bias in datasets and model predictions with visual reports and insights.
+
+**Tech Stack:** Next.js, FastAPI, Python, Gemini API  
+
+**Features:**
+- 📂 CSV dataset upload  
+- 📊 Bias and fairness metric visualizations  
+- 🤖 AI-generated fairness insights  
+- 📄 Downloadable PDF reports  
+
+🔗 GitHub: https://github.com/deepindersinghbti/FairLens  
+🌐 Live: https://fairlens-ai.vercel.app/
+
+---
+
+### 🌐 Portfolio Website
+
+Modern responsive personal portfolio website showcasing my projects, skills, and journey as a Computer Science student.
 
 **Tech Stack:** HTML, CSS, JavaScript  
+
 **Features:**
-- 🌙 Dark/Light mode toggle  
+- 🌙 Dark/Light/System theme toggle  
 - 📱 Fully responsive design  
 - 📬 Contact form integration  
+- ⚡ Fast and clean UI/UX  
 
-🔗 Live: https://deepinder-singh.pages.dev
+🔗 GitHub: https://github.com/deepindersinghbti/Portfolio  
+🌐 Live: https://deepinder-singh.pages.dev
 
 ---
 
@@ -64,9 +91,11 @@ Modern responsive personal portfolio
 ---
 
 ## ⚡ Fun Fact
+
 I prefer building real-world projects over just following tutorials.
 
 ---
 
 ## 💡 Personal Note
-“I build systems that are not just functional, but meaningful.”
+
+> “I build systems that are not just functional, but meaningful.”
